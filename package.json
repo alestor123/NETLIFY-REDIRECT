@@ -1,0 +1,45 @@
+{
+  "name": "netlify-redirect",
+  "version": "1.0.0",
+  "description": "This is a simple code for creating a new redirect rule in '_redirects'",
+  "main": "App.js",
+  "scripts": {
+    "test": "standard && node test.js | tap-spec",
+    "lint": "standard . --fix"
+  },
+  "files": [
+    "App.js"
+  ],
+  "author": {
+    "name": "Alestor Aldous",
+    "url": "https://alestor123.github.io"
+  },
+  "funding": "https://alestor123.is-a.dev/donate/",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/NETLIFY-REDIRECT.git"
+  },
+  "keywords": [
+    "netlify",
+    "short",
+    "url",
+    "shortner",
+    "url-shortner",
+    "cli",
+    "redirect",
+    "config"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/NETLIFY-REDIRECT/issues"
+  },
+  "homepage": "https://github.com/alestor123/NETLIFY-REDIRECT#readme",
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^15.0.9",
+    "tap-spec": "^5.0.0"
+  }
+}
