@@ -12,7 +12,7 @@
     "cli.js"
   ],
   "bin": {
-    "project-catagory": "cli.js"
+    "netlify-redirect": "cli.js"
   },
   "author": {
     "name": "Alestor Aldous",
