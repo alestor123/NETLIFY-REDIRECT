@@ -8,7 +8,8 @@
     "lint": "standard . --fix"
   },
   "files": [
-    "App.js"
+    "App.js",
+    "cli.js"
   ],
   "author": {
     "name": "Alestor Aldous",
