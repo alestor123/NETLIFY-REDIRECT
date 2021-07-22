@@ -11,6 +11,9 @@
     "App.js",
     "cli.js"
   ],
+  "bin": {
+    "project-catagory": "cli.js"
+  },
   "author": {
     "name": "Alestor Aldous",
     "url": "https://alestor123.github.io"
@@ -42,5 +45,8 @@
     "standard": "^16.0.3",
     "tap": "^15.0.9",
     "tap-spec": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1"
   }
 }
