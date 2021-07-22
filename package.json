@@ -1,6 +1,6 @@
 {
   "name": "netlify-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple code for creating a new redirect rule in '_redirects'",
   "main": "App.js",
   "scripts": {
